@@ -22,8 +22,8 @@ namespace myImages {
 . . f 4 f f 4 1 1 f 1 f . . . . 
 . . . f . f f f f f f f . . . . 
 `;
-            case "image1":
-            case "myImage":return img`
+            case "image3":
+            case "ziggyRight":return img`
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
@@ -40,6 +40,25 @@ namespace myImages {
 . . . f 4 f 4 1 1 f 1 f 4 f . . 
 . . f 4 f f 4 1 1 f 1 f 1 f . . 
 . . . f . f f f f f f f f f . . 
+`;
+            case "image1":
+            case "ziggyLeft":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . f f . . . f f . . . . . . . 
+. . f 1 f f f 1 f . . . . . . . 
+. . f 1 4 4 4 1 f . . . . . . . 
+. . f f 1 1 f 1 f . . . . . . . 
+. . f 1 3 1 1 1 f . . . . . . . 
+. . f 1 1 1 1 4 f . . . . . . . 
+. . . f 1 1 1 4 4 f . . . . . . 
+. . . f 1 1 1 1 4 f . . . . . . 
+. . . f 1 1 1 1 4 f . f . . . . 
+. . f 4 f 1 f 1 1 4 f 4 f . . . 
+. . f 1 f 1 f 1 1 4 f f 4 f . . 
+. . f f f f f f f f f . f . . . 
 `;
         }
         return null;
