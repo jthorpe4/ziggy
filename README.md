@@ -1,4 +1,4 @@
-#I was trying to make a little game using Makecode to run on a kitroik microbit arcade 
+# I was trying to make a little game using Makecode to run on a kitroik microbit arcade 
 
 
 > Open this page at [https://jthorpe4.github.io/ziggy/](https://jthorpe4.github.io/ziggy/)
