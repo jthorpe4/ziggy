@@ -1,4 +1,5 @@
 scene.setBackgroundColor(7)
+music.play(music.stringPlayable("E D G F B A C5 B ", 240), music.PlaybackMode.UntilDone)
 game.splash("Hello world")
 let ziggySprite = sprites.create(assets.image`myImage`, SpriteKind.Player)
 controller.moveSprite(ziggySprite)
