@@ -4,15 +4,15 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage0"
     },
-    "image3": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAADw9AAAAAAAAE8PAAAAAAAA8P8AAAAAAP9P9AAA////RBTxAAAfEUEUEfEAAPD0ERHx/wAA8BQRERHxAADwFBMR8f8AAB/xEf9P8QAA////APD/AAAAAAAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "ziggyRight"
-    },
     "image1": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8A8P8AAB/xEf9P8QAA8BQTEfH/AADwFBEREfEAAPD0ERHx/wAAHxFBFBHxAAD///9EFPEAAAAAAP9P9AAAAAAAAPD/AAAAAAAATw8AAAAAAADw9AAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "ziggyLeft"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAADw9AAAAAAAAE8PAAAAAAAA8P8AAAAAAP9P9AAA////RBTxAAAfEUEUEfEAAPD0ERHx/wAA8BQRERHxAADwFBMR8f8AAB/xEf9P8QAA////APD/AAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ziggyRight"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
